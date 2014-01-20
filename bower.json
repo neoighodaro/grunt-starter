@@ -1,0 +1,26 @@
+{
+  "name": "grunt-starter",
+  "version": "1.0.0",
+  "authors": [
+    "Neo Ighodaro <neo@creativitykills.net>"
+  ],
+  "description": "Grunt quick start package used with new projects.",
+  "keywords": [
+    "grunt",
+    "grunt-starter",
+    "gruntJS",
+    "CreativityKills"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "components/jquery"
+  }
+}
